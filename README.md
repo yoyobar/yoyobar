@@ -1,10 +1,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoyobar&show_icons=true&theme=radical)
-```
-Welcome this page!
-I'm Kim minsu, Who wants to become a front-end devleoper.  :)
-```
 <hr>
 
 ### Tech Stacks
