@@ -18,10 +18,10 @@ I'm Kim minsu, Who wants to become a front-end devleoper.  :)
 
 ### Studying
 <a href="https://ozcodingschool.com/">
-  <img src="https://img.shields.io/badge/-OZ%20Coding%20School-382925?style=for-the-badge&logo=Notion&logoColor=white&href"></img>
+  <img src="https://img.shields.io/badge/-OZ%20Coding%20School-6700e6?style=for-the-badge&logoColor=white&href"></img>
 </a><br>
 <a href="https://github.com/yoyobar/OZ_CodingSchool">
-  <img src="https://img.shields.io/badge/-My.%20Post-7b5b54?style=for-the-badge&logo=Notion&logoColor=white&href"></img>
+  <img src="https://img.shields.io/badge/-My.%20Post-7b5b54?style=for-the-badge&logoColor=white&href"></img>
 </a>
 
 ### Contact / Posts
