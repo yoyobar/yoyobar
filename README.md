@@ -17,14 +17,18 @@ I'm Kim minsu, Who wants to become a front-end devleoper.  :)
 
 
 ### Studying
-![OZ Coding School](https://img.shields.io/badge/-OZ%20Coding%20School-382925?style=for-the-badge&logo=Notion&logoColor=white&href)<br>
+<a href="https://ozcodingschool.com/">
+  <img src="https://img.shields.io/badge/-OZ%20Coding%20School-382925?style=for-the-badge&logo=Notion&logoColor=white&href"></img>
+</a><br>
 <a href="https://github.com/yoyobar/OZ_CodingSchool">
-<img src="https://img.shields.io/badge/-My.%20Post-7b5b54?style=for-the-badge&logo=Notion&logoColor=white&href"></img>
+  <img src="https://img.shields.io/badge/-My.%20Post-7b5b54?style=for-the-badge&logo=Notion&logoColor=white&href"></img>
+</a>
 
 ### Contact / Posts
 
-<a href="https://plaid-plow-0e3.notion.site/CSS-df4d0286e6254d38881fa5cabea45d92?pvs=4">
-<img src="https://img.shields.io/badge/-Notion-382925?style=for-the-badge&logo=Notion&logoColor=white"></img>
-
+<a href="https://plaid-plow-0e3.notion.site/Minsu-Kim-3d4cdf754f1e42cf8460dd12408a41a4?pvs=4">
+  <img src="https://img.shields.io/badge/-Notion-382925?style=for-the-badge&logo=Notion&logoColor=white"></img>
+</a><br>
 <a href=mailto:barwait@naver.com>
 <img src="https://img.shields.io/badge/-barwait@naver.com-00c75a?style=for-the-badge&logo=&logoColor=white"></img>
+</a>
