@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=yoyobar%20&fontSize=120&fontColor=)
 
-### Welcome this page!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoyobar&show_icons=true&theme=radical)
+```
+Welcome this page!
 I'm Kim minsu, Who wants to become a front-end devleoper.  :)
-
+```
 <hr>
 
 ### Tech Stacks
@@ -31,4 +33,4 @@ I'm Kim minsu, Who wants to become a front-end devleoper.  :)
 </a><br>
 <a href=mailto:barwait@naver.com>
 <img src="https://img.shields.io/badge/-barwait@naver.com-00c75a?style=for-the-badge&logo=&logoColor=white"></img>
-</a>
+</a><br>
