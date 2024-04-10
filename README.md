@@ -28,5 +28,5 @@
   <img src="https://img.shields.io/badge/-Notion-382925?style=for-the-badge&logo=Notion&logoColor=white"></img>
 </a><br>
 <a href=mailto:barwait@naver.com>
-<img src="https://img.shields.io/badge/-barwait@naver.com-00c75a?style=for-the-badge&logo=&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-barwait@naver.com-06c471?style=for-the-badge&logo=&logoColor=white"></img>
 </a><br>
