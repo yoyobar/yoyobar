@@ -1,5 +1,7 @@
 
 
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoyobar&show_icons=true&theme=radical)
 <hr>
 
@@ -8,6 +10,17 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-C34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)<br>
+
+### Learning Stacks
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white)<br>
+![](https://geps.dev/progress/70)<br><br>
+![TypeScript](https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)<br>
+![](https://geps.dev/progress/50)<br><br>
+![Vercel](https://img.shields.io/badge/-vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)<br>
+![](https://geps.dev/progress/20)<br><br>
+
+
 
 ### Tools
 ![VS CODE](https://img.shields.io/badge/-VS%20CODE-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)<br>
