@@ -31,14 +31,11 @@
 <a href="https://ozcodingschool.com/">
   <img src="https://img.shields.io/badge/-OZ%20Coding%20School-6700e6?style=for-the-badge&logoColor=white&href"></img>
 </a><br>
-<a href="https://github.com/yoyobar/OZ_CodingSchool">
-  <img src="https://img.shields.io/badge/-My.%20Post-7b5b54?style=for-the-badge&logoColor=white&href"></img>
-</a>
 
 ### Contact / Posts
 
-<a href="https://plaid-plow-0e3.notion.site/Minsu-Kim-3d4cdf754f1e42cf8460dd12408a41a4?pvs=4">
-  <img src="https://img.shields.io/badge/-Notion-382925?style=for-the-badge&logo=Notion&logoColor=white"></img>
+<a href="https://yoyobar.github.io/">
+  <img src="https://img.shields.io/badge/-Github%20Blog-181717?style=for-the-badge&logo=GitHub&logoColor=white"></img>
 </a><br>
 <a href=mailto:barwait@naver.com>
 <img src="https://img.shields.io/badge/-barwait@naver.com-06c471?style=for-the-badge&logo=&logoColor=white"></img>
