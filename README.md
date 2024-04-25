@@ -38,5 +38,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-OZ%20Coding%20School-6700e6?style=flat&logoColor=white&href">
   <img src="https://img.shields.io/badge/-Github%20Blog-181717?style=flat&logo=GitHub&logoColor=white">
-  <img src="https://img.shields.io/badge/-barwait@naver.com-268654?style=flat&logo=&logoColor=white">
+  <a href="yoyobar.github.io"><img src="https://img.shields.io/badge/-barwait@naver.com-268654?style=flat&logo=&logoColor=white"></a>
 </p>
