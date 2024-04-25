@@ -5,6 +5,7 @@
 <div align="center">I participated 👨🏻‍💻OZCoding School 3th</div><br>
 
 <div align="center">✨Interested in JavaScript, TypeScript, React, Prisma </div>
+<br><br>
 
 <h2 align="center">Skills</h2>
 
