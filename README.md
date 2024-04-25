@@ -1,42 +1,41 @@
+<p align="center">
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=25&text=Yoyobar&section=header&textBg=false&fontColor=f3f5ff&fontSize=75&animation=fadeIn&rotate=0&strokeWidth=0&desc=Front-end%20developer&descAlign=58&descAlignY=61&descSize=18">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoyobar&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">I participated 👨🏻‍💻OZCoding School 3th</div><br>
 
-<hr>
+<div align="center">✨Interested in JavaScript, TypeScript, React, Prisma </div>
 
+<h2 align="center">Skills</h2>
 
+<p align="center">
+<img src="https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=48a0eb">
+<img src="https://img.shields.io/badge/-JavaScript-938518?style=for-the-badge&logo=javascript&logoColor=f7df1e">
+<img src="https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=React&logoColor=61dafb">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-TailwindCSS-647f8d?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4">
+</p>
+<br><br>
 
-### Tech Stacks
+<h2 align="center">Learning Skills</h2>
 
-![HTML5](https://img.shields.io/badge/-HTML5-C34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)<br>
+<p align="center">
+<img src="https://img.shields.io/badge/-Docker-2ca4e0?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/-vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+</p>
+<br><br>
 
-### Learning Stacks
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white)<br>
-![](https://geps.dev/progress/70)<br><br>
-![TypeScript](https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)<br>
-![](https://geps.dev/progress/50)<br><br>
-![Vercel](https://img.shields.io/badge/-vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)<br>
-![](https://geps.dev/progress/20)<br><br>
-
-
-
-### Tools
-![VS CODE](https://img.shields.io/badge/-VS%20CODE-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)<br>
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-### Studying
-<a href="https://ozcodingschool.com/">
-  <img src="https://img.shields.io/badge/-OZ%20Coding%20School-6700e6?style=for-the-badge&logoColor=white&href"></img>
-</a><br>
-
-### Contact / Posts
-
-<a href="https://yoyobar.github.io/">
-  <img src="https://img.shields.io/badge/-Github%20Blog-181717?style=for-the-badge&logo=GitHub&logoColor=white"></img>
-</a><br>
-<a href=mailto:barwait@naver.com>
-<img src="https://img.shields.io/badge/-barwait@naver.com-06c471?style=for-the-badge&logo=&logoColor=white"></img>
-</a><br>
+<h2 align="center">Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yoyobar&rank_icon=github&title_color=2b3257&icon_color=79ff97&text_color=030819&bg_color=ffffff">
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyobar&layout=compact">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-OZ%20Coding%20School-6700e6?style=flat&logoColor=white&href">
+  <img src="https://img.shields.io/badge/-Github%20Blog-181717?style=flat&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/-barwait@naver.com-268654?style=flat&logo=&logoColor=white">
+</p>
