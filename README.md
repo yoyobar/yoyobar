@@ -4,8 +4,11 @@
 
 <div align="center">I participated 👨🏻‍💻OZCoding School 3th</div><br>
 
-<div align="center">✨Interested in JavaScript, TypeScript, React, Prisma </div>
-<br><br>
+<div align="center">✨Interested in JavaScript, TypeScript, React, GraphQL </div><br>
+
+<div align="center"> In the future, I aiming for full stack. </div><br>
+
+<br>
 
 <h2 align="center">Skills</h2>
 
@@ -27,6 +30,7 @@
 <img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
 <img src="https://img.shields.io/badge/-mySQL-0c0b13?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   
 </p>
 <br><br>
@@ -39,7 +43,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyobar&layout=compact">
 </p>
 <p align="center">
-  <a href="https://ozschool.co.kr/"><img src="https://img.shields.io/badge/-OZ%20Coding%20School-6700e6?style=flat&logoColor=white" alt="OZ Coding School"></a>
+  <a href="https://ozschool.co.kr/"><img src="https://img.shields.io/badge/-OZ%20Coding%20School%203TH-6700e6?style=flat&logoColor=white" alt="OZ Coding School"></a>
   <a href="https://yoyobar.github.io"><img src="https://img.shields.io/badge/-Github%20Blog-181717?style=flat&logo=GitHub&logoColor=white" alt="Github Blog"></a>
   <a href="mailto:barwait@naver.com"><img src="https://img.shields.io/badge/-barwait@naver.com-268654?style=flat&logo=&logoColor=white" alt="barwait@naver.com"></a>
 </p>
