@@ -4,7 +4,7 @@
 
 <div align="center">I participated 👨🏻‍💻OZCoding School 3th</div><br>
 
-<div align="center">✨Interested in JavaScript, TypeScript, React, GraphQL </div><br>
+<div align="center">✨Interested in JavaScript, TypeScript, React </div><br>
 
 <div align="center"> In the future, I aiming for full stack. </div><br>
 
