@@ -19,6 +19,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-TailwindCSS-647f8d?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4">
+  <img src="https://img.shields.io/badge/-ZUSTAND-5c1f70?style=for-the-badge">
 </p>
 <br><br>
 
@@ -31,7 +32,6 @@
 <img src="https://img.shields.io/badge/-mySQL-0c0b13?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/-React_Query-20232a?style=for-the-badge&logo=ReactQuery&logoColor=FF4154">
 <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/-ZUSTAND-5c1f70?style=for-the-badge">
   
 </p>
 <br><br>
