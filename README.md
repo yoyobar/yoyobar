@@ -46,6 +46,6 @@
 </p>
 <p align="center">
   <a href="https://ozschool.co.kr/"><img src="https://img.shields.io/badge/-OZ%20Coding%20School%203TH-6700e6?style=flat&logoColor=white" alt="OZ Coding School"></a>
-  <a href="https://yoyobar.github.io"><img src="https://img.shields.io/badge/-Github%20Blog-181717?style=flat&logo=GitHub&logoColor=white" alt="Github Blog"></a>
+  <a href="https://wiki-drab-sigma.vercel.app"><img src="https://img.shields.io/badge/Blog-181717?style=flat&logo=vercel&logoColor=white" alt="Blog"></a>
   <a href="mailto:barwait@naver.com"><img src="https://img.shields.io/badge/-barwait@naver.com-268654?style=flat&logo=&logoColor=white" alt="barwait@naver.com"></a>
 </p>
