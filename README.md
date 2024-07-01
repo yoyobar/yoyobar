@@ -16,10 +16,12 @@
 <img src="https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=48a0eb">
 <img src="https://img.shields.io/badge/-JavaScript-938518?style=for-the-badge&logo=javascript&logoColor=f7df1e">
 <img src="https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=React&logoColor=61dafb">
+<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-TailwindCSS-647f8d?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4">
   <img src="https://img.shields.io/badge/-ZUSTAND-5c1f70?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-React_Query-20232a?style=for-the-badge&logo=ReactQuery&logoColor=FF4154">
 </p>
 <br><br>
 
@@ -30,9 +32,7 @@
 <img src="https://img.shields.io/badge/-vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
 <img src="https://img.shields.io/badge/-mySQL-0c0b13?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/-React_Query-20232a?style=for-the-badge&logo=ReactQuery&logoColor=FF4154">
 <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   
 </p>
 <br><br>
