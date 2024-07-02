@@ -40,10 +40,8 @@
 
 <h2 align="center">Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoyobar&rank_icon=github&title_color=2b3257&icon_color=79ff97&text_color=030819&bg_color=ffffff">
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyobar&layout=compact">
+  <img height=200  src="https://github-readme-stats.vercel.app/api?username=yoyobar&show_icons=true&theme=dracula">
+  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyobar&layout=compact">
 </p>
 <p align="center">
   <a href="https://ozschool.co.kr/"><img src="https://img.shields.io/badge/-OZ%20Coding%20School%203TH-6700e6?style=flat&logoColor=white" alt="OZ Coding School"></a>
