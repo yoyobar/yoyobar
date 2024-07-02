@@ -39,10 +39,10 @@
 <br><br>
 
 <h2 align="center">Stats</h2>
-<p align="center">
+<div align="center">
   <img height=200  src="https://github-readme-stats.vercel.app/api?username=yoyobar&show_icons=true&theme=dracula">
   <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyobar&layout=compact">
-</p>
+</div>
 <p align="center">
   <a href="https://ozschool.co.kr/"><img src="https://img.shields.io/badge/-OZ%20Coding%20School%203TH-6700e6?style=flat&logoColor=white" alt="OZ Coding School"></a>
   <a href="https://wiki.yoyobar.xyz/"><img src="https://img.shields.io/badge/My%20Blog-181717?style=flat&logo=vercel&logoColor=white" alt="my_Blog"></a>
