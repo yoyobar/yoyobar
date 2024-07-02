@@ -40,9 +40,14 @@
 
 <h2 align="center">Stats</h2>
 <div align="center">
-  <img width=480  src="https://github-readme-stats.vercel.app/api?username=yoyobar&show_icons=true&theme=dracula">
-  <img width=480  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyobar&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=yoyobar&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyobar&layout=compact">
 </div>
+
+<br>
+
+<h2 align="center">Contact</h2>
+
 <p align="center">
   <a href="https://ozschool.co.kr/"><img src="https://img.shields.io/badge/-OZ%20Coding%20School%203TH-6700e6?style=flat&logoColor=white" alt="OZ Coding School"></a>
   <a href="https://wiki.yoyobar.xyz/"><img src="https://img.shields.io/badge/My%20Blog-181717?style=flat&logo=vercel&logoColor=white" alt="my_Blog"></a>
