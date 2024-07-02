@@ -2,7 +2,6 @@
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=25&text=Yoyobar&section=header&textBg=false&fontColor=f3f5ff&fontSize=75&animation=fadeIn&rotate=0&strokeWidth=0&desc=Front-end%20developer&descAlign=58&descAlignY=61&descSize=18">
 </p>
 
-<p align="center" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoyobar%2Fhit-counter&count_bg=%233F3DC8&title_bg=%231B1B1B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <div align="center">I participated 👨🏻‍💻OZCoding School 3th</div><br>
 
@@ -50,4 +49,5 @@
   <a href="https://ozschool.co.kr/"><img src="https://img.shields.io/badge/-OZ%20Coding%20School%203TH-6700e6?style=flat&logoColor=white" alt="OZ Coding School"></a>
   <a href="https://wiki-drab-sigma.vercel.app"><img src="https://img.shields.io/badge/Blog-181717?style=flat&logo=vercel&logoColor=white" alt="Blog"></a>
   <a href="mailto:barwait@naver.com"><img src="https://img.shields.io/badge/-barwait@naver.com-268654?style=flat&logo=&logoColor=white" alt="barwait@naver.com"></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoyobar%2Fhit-counter&count_bg=%233F3DC8&title_bg=%231B1B1B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
