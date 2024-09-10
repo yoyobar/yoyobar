@@ -30,8 +30,6 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Docker-2ca4e0?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/-vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
 <img src="https://img.shields.io/badge/-mySQL-0c0b13?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   
