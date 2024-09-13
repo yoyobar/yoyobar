@@ -38,6 +38,7 @@
 
 <h2 align="center">Stats</h2>
 <div align="center">
+  <img src="https://github.com/yoyobar/github-programmers-rank/blob/main/lib/result.svg">
   <img src="https://github-readme-stats.vercel.app/api?username=yoyobar&show_icons=true&theme=dracula">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyobar&layout=compact&hide=Handlebars,MDX,DockerFile">
 </div>
