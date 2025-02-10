@@ -36,11 +36,6 @@
 </p>
 <br><br>
 
-<h2 align="center">Programmers Stats</h2>
-<div align="center">
-  <img src="https://github.com/yoyobar/github-programmers-rank/blob/main/lib/result.svg">
-</div>
-
 <h2 align="center">Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yoyobar&show_icons=true&theme=dracula">
