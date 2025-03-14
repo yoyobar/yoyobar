@@ -2,12 +2,7 @@
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=25&text=Yoyobar&section=header&textBg=false&fontColor=f3f5ff&fontSize=75&animation=fadeIn&rotate=0&strokeWidth=0&desc=Front-end%20developer&descAlign=58&descAlignY=61&descSize=18">
 </p>
 
-
-<div align="center">I participated 👨🏻‍💻OZCoding School 3th</div><br>
-
 <div align="center">✨Interested in JavaScript, TypeScript, React </div><br>
-
-<div align="center"> In the future, I aiming for full stack. </div><br>
 
 <br>
 
