@@ -56,7 +56,13 @@
 
 ### 📬 Contact
 <p align="left">
-  <a href="https://www.spacecl.com/"><img src="https://img.shields.io/badge/Space%20CL-2d2d2d?style=flat&logoColor=ffffff&labelColor=1c1c1c" /></a>
-  <a href="https://wiki.yoyobar.xyz/"><img src="https://img.shields.io/badge/My%20Blog-2d2d2d?style=flat&logo=vercel&logoColor=ffffff&labelColor=1c1c1c" /></a>
-  <a href="mailto:barwait@naver.com"><img src="https://img.shields.io/badge/barwait@naver.com-2d2d2d?style=flat&logoColor=ffffff&labelColor=1c1c1c" /></a>
+  <a href="https://www.spacecl.com/">
+   <img src="https://img.shields.io/badge/SpaceCL-2d2d2d?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=1c1c1c" />
+  </a>
+  <a href="https://wiki.yoyobar.xyz/">
+    <img src="https://img.shields.io/badge/My%20Blog-2d2d2d?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1c1c1c" alt="My Blog">
+  </a>
+  <a href="mailto:barwait@naver.com">
+    <img src="https://img.shields.io/badge/Email-2d2d2d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1c1c" alt="Email">
+  </a>
 </p>
