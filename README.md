@@ -1,49 +1,62 @@
 <p align="center">
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=25&text=Yoyobar&section=header&textBg=false&fontColor=f3f5ff&fontSize=75&animation=fadeIn&rotate=0&strokeWidth=0&desc=Front-end%20developer&descAlign=58&descAlignY=61&descSize=18">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0e0e0e&text=Yoyobar&fontColor=ffffff&fontSize=70&animation=fadeIn&desc=FrontEnd%20Developer&descSize=18&descAlign=70&descAlignY=65" />
 </p>
 
-<div align="center">✨Interested in JavaScript, TypeScript, React </div><br>
-
-<br>
-
-<h2 align="center">Skills</h2>
-
 <p align="center">
-<img src="https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=48a0eb">
-<img src="https://img.shields.io/badge/-JavaScript-938518?style=for-the-badge&logo=javascript&logoColor=f7df1e">
-<img src="https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=React&logoColor=61dafb">
-<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=777777&center=true&vCenter=true&width=800&lines=Junior+Developer+%7C+React%2C+NestJS+Focused;Building+Modern+Web+Applications" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-TailwindCSS-647f8d?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4">
-  <img src="https://img.shields.io/badge/-ZUSTAND-5c1f70?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-React_Query-20232a?style=for-the-badge&logo=ReactQuery&logoColor=FF4154">
+
+---
+
+### 🖥 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-2d2d2d?style=for-the-badge&logo=typescript&logoColor=007ACC&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/JavaScript-2d2d2d?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/React-2d2d2d?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/Next.js-2d2d2d?style=for-the-badge&logo=nextdotjs&logoColor=ffffff&labelColor=1c1c1c" />
 </p>
-<br><br>
 
-<h2 align="center">Learning Skills</h2>
+---
 
-<p align="center">
-<img src="https://img.shields.io/badge/-Docker-2ca4e0?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/-mySQL-0c0b13?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  
+### 🔧 Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/NestJS-2d2d2d?style=for-the-badge&logo=nestjs&logoColor=e0234e&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/Node.js-2d2d2d?style=for-the-badge&logo=nodedotjs&logoColor=3c873a&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/Prisma-2d2d2d?style=for-the-badge&logo=prisma&logoColor=white&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/PostgreSQL-2d2d2d?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=1c1c1c" />
 </p>
-<br><br>
 
-<h2 align="center">Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoyobar&show_icons=true&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyobar&layout=compact&hide=Handlebars,MDX,DockerFile">
-</div>
+---
 
-<br>
+### ☁️ Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-2d2d2d?style=for-the-badge&logo=amazonaws&logoColor=ff9900&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/Coolify-2d2d2d?style=for-the-badge&logo=docker&logoColor=2496ed&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/RDS-2d2d2d?style=for-the-badge&logo=amazonrds&logoColor=527FFF&labelColor=1c1c1c" />
+</p>
 
-<h2 align="center">Contact</h2>
+---
 
-<p align="center">
-  <a href="https://ozschool.co.kr/"><img src="https://img.shields.io/badge/-OZ%20Coding%20School%203TH-6700e6?style=flat&logoColor=white" alt="OZ Coding School"></a>
-  <a href="https://wiki.yoyobar.xyz/"><img src="https://img.shields.io/badge/My%20Blog-181717?style=flat&logo=vercel&logoColor=white" alt="my_Blog"></a>
-  <a href="mailto:barwait@naver.com"><img src="https://img.shields.io/badge/-barwait@naver.com-268654?style=flat&logo=&logoColor=white" alt="barwait@naver.com"></a>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoyobar%2Fhit-counter&count_bg=%233F3DC8&title_bg=%231B1B1B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+### 🧰 Tools & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/TailwindCSS-2d2d2d?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/Zustand-2d2d2d?style=for-the-badge&logo=Zustand&logoColor=white&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/ReactQuery-2d2d2d?style=for-the-badge&logo=reactquery&logoColor=FF4154&labelColor=1c1c1c" />
+</p>
+
+---
+
+### 📚 Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2d2d2d?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/Remix-2d2d2d?style=for-the-badge&logo=remix&logoColor=ffffff&labelColor=1c1c1c" />
+</p>
+
+---
+
+### 📬 Contact
+<p align="left">
+  <a href="https://www.spacecl.com/"><img src="https://img.shields.io/badge/Space%20CL-2d2d2d?style=flat&logoColor=ffffff&labelColor=1c1c1c" /></a>
+  <a href="https://wiki.yoyobar.xyz/"><img src="https://img.shields.io/badge/My%20Blog-2d2d2d?style=flat&logo=vercel&logoColor=ffffff&labelColor=1c1c1c" /></a>
+  <a href="mailto:barwait@naver.com"><img src="https://img.shields.io/badge/barwait@naver.com-2d2d2d?style=flat&logoColor=ffffff&labelColor=1c1c1c" /></a>
 </p>
