@@ -44,7 +44,7 @@
 | 사용자 피드백을 반영한 지속적인 개선 | 실제 트래픽에 따른 성능 · 서버 비용 관리 |
 
 <p>
-  <a href="https://wuwaecho.xyz"><b>서비스 둘러보기 ↗</b></a>
+  <a href="./WUWA-ECHO.md"><b>프로젝트 문서 보기 ↗</b></a> · <a href="https://wuwaecho.xyz">서비스 방문 ↗</a>
 </p>
 
 <br />
