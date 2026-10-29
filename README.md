@@ -26,9 +26,9 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="33%"><sub>DAILY ACTIVE USERS</sub><h2>5,000+</h2>일간 활성 사용자</td>
-    <td align="center" width="33%"><sub>OWNERSHIP</sub><h2>Solo Dev</h2>기획 · 개발 · 운영</td>
-    <td align="center" width="33%"><sub>DELIVERY</sub><h2>End&nbsp;to&nbsp;End</h2>전체 총괄 · 개발</td>
+    <td align="center" width="33%" nowrap><sub>DAILY ACTIVE USERS</sub><h3>5,000+</h3><sub>일간&nbsp;활성&nbsp;사용자</sub></td>
+    <td align="center" width="33%" nowrap><sub>OWNERSHIP</sub><h3>Solo&nbsp;Dev</h3><sub>기획&nbsp;·&nbsp;개발&nbsp;·&nbsp;운영</sub></td>
+    <td align="center" width="33%" nowrap><sub>DELIVERY</sub><h3>End&nbsp;to&nbsp;End</h3><sub>전체&nbsp;총괄&nbsp;·&nbsp;개발</sub></td>
   </tr>
 </table>
 
