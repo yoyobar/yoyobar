@@ -28,7 +28,7 @@
   <tr>
     <td align="center" width="33%"><sub>DAILY ACTIVE USERS</sub><h2>5,000+</h2>일간 활성 사용자</td>
     <td align="center" width="33%"><sub>OWNERSHIP</sub><h2>Solo Dev</h2>기획 · 개발 · 운영</td>
-    <td align="center" width="33%"><sub>DELIVERY</sub><h2>End to End</h2>화면부터 인프라까지</td>
+    <td align="center" width="33%"><sub>DELIVERY</sub><h2>End to End</h2>전체 총괄 · 개발</td>
   </tr>
 </table>
 
