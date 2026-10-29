@@ -24,11 +24,11 @@
 게임 속 복잡한 데이터를 이해하기 쉬운 점수와 통계로 바꾸는 개인 서비스입니다.<br />
 기획부터 UI/UX, 프론트엔드, 백엔드, 배포와 운영까지 혼자 맡고 있습니다.
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="33%"><sub>DAILY ACTIVE USERS</sub><h2>5,000+</h2>일간 활성 사용자</td>
     <td align="center" width="33%"><sub>OWNERSHIP</sub><h2>Solo Dev</h2>기획 · 개발 · 운영</td>
-    <td align="center" width="33%"><sub>DELIVERY</sub><h2>End to End</h2>전체 총괄 · 개발</td>
+    <td align="center" width="33%"><sub>DELIVERY</sub><h2>End&nbsp;to&nbsp;End</h2>전체 총괄 · 개발</td>
   </tr>
 </table>
 
