@@ -6,7 +6,7 @@
 
 2년차 풀스택 개발자 · Frontend / Backend / AWS Infrastructure
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1600&color=22D3EE&center=true&vCenter=true&width=620&height=36&lines=From+idea+to+production.;Building+and+operating+WuwaEcho+%7C+5%2C000%2B+DAU." alt="From idea to production. Building and operating WuwaEcho with 5,000+ DAU." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1600&color=22D3EE&center=true&vCenter=true&width=620&height=36&lines=From+idea+to+production.;Building+and+operating+WuwaEcho+%7C+7%2C000%2B+WAU." alt="From idea to production. Building and operating WuwaEcho with 8,000+ WAU." />
 
 <p>
   <a href="https://wuwaecho.xyz"><img src="https://img.shields.io/badge/WuwaEcho-Visit%20Live%20Site-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit WuwaEcho" /></a>
@@ -26,13 +26,13 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="33%" nowrap><sub>DAILY ACTIVE USERS</sub><h3>5,000+</h3><sub>일간&nbsp;활성&nbsp;사용자</sub></td>
+    <td align="center" width="33%" nowrap><sub>WEEKLY ACTIVE USERS</sub><h3>8,000+</h3><sub>주간&nbsp;활성&nbsp;사용자</sub></td>
     <td align="center" width="33%" nowrap><sub>OWNERSHIP</sub><h3>Solo&nbsp;Dev</h3><sub>기획&nbsp;·&nbsp;개발&nbsp;·&nbsp;운영</sub></td>
     <td align="center" width="33%" nowrap><sub>DELIVERY</sub><h3>End&nbsp;to&nbsp;End</h3><sub>전체&nbsp;총괄&nbsp;·&nbsp;개발</sub></td>
   </tr>
 </table>
 
-<sub>DAU 5,000+는 2026년 10월 기준 운영 지표이며, 실시간 연동 수치가 아닙니다.</sub>
+<sub>WAU 8,000+는 2026년 11월 기준 운영 지표이며, 실시간 연동 수치가 아닙니다.</sub>
 
 <br />
 
